@@ -12,7 +12,7 @@
     use TheClimbing\RPGLike\Players\PlayerManager;
     use TheClimbing\RPGLike\Skills\SkillsManager;
 
-    use jojoe77777\FormAPI\SimpleForm;
+    use jojoe77777\FormAPI;
 
     class RPGForms
     {
